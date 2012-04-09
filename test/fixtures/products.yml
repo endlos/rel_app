@@ -9,3 +9,8 @@ two:
   name: MyString
   price: 1
   description: MyString
+
+ruby:
+  name: The Ruby Book
+  price: 100
+  description: The Ruby Book (hardcover)
